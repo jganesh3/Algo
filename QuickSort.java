@@ -1,6 +1,9 @@
 package chapter9.sorting.searching;
 
-
+/*
+@Author : Ganesh Joshi
+@file :  QuickSort Java Generics
+*/
 public class QuickSort<E extends Comparable<E>> {
 
 	
